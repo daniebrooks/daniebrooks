@@ -516,26 +516,6 @@ Lahore, Pakistan · 2018
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=daniebrooks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniebrooks&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=daniebrooks&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=daniebrooks&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
 ## 🤝 Let's Work Together
 
 I'm open to freelance projects, remote opportunities, and collaborations involving software engineering, AI automation, full-stack development, API integration, and data engineering.
