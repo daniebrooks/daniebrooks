@@ -1,28 +1,31 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20%7C%20Data%20Engineering&descSize=17&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Daniel Brooks"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Automation%20%7C%20Cloud&descSize=17&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Daniel Brooks"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Software;Building+AI+Agents+%26+Automation;Developing+LLM+%26+RAG+Solutions;Full-Stack+%26+Cloud+Engineering;Data+Pipelines+%26+Predictive+Analytics" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineering;AI+Agents+%26+Workflow+Automation;Generative+AI+%26+RAG+Solutions;Backend+APIs+%26+System+Integration;Data+Engineering+%26+Cloud+Solutions" alt="Animated introduction"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Freelance%20Engineer-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialty-AI%20%26%20Automation-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Availability-Freelance%20%26%20Remote-0F766E?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/danielbrookswork/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:daniel.brooks.ashburn@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="tel:+12282278781">
+<img src="https://img.shields.io/badge/Phone-%2B1%20228--227--8781-16A34A?style=for-the-badge" alt="Phone"/>
 </a>
 
-<a href="tel:+12282278781">
-<img src="https://img.shields.io/badge/Phone-%2B1%20228--227--8781-16A34A?style=for-the-badge"/>
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=daniebrooks&style=for-the-badge&color=2563EB" alt="Profile views"/>
 
 </div>
 
@@ -30,19 +33,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a freelance software engineer with 8+ years of experience designing, developing, and delivering scalable, secure, and high-performance software solutions.
+I'm a freelance software engineer with 8+ years of experience building software applications, AI-powered solutions, backend systems, and data-driven products.
 
-My expertise includes custom software development, ASP.NET and .NET applications, AI agents, workflow automation, web and SaaS development, API integration, cloud solutions, machine learning, and data engineering.
+My work combines software engineering, full-stack development, Generative AI, machine learning, API integration, cloud applications, and data engineering.
 
-I enjoy transforming complex technical requirements into reliable, maintainable software that solves real-world business problems.
+I help businesses transform ideas and complex requirements into practical, scalable, secure, and maintainable software solutions.
 
-- 🤖 AI Agents, LLM Integration, RAG & Automation
-- ⚙️ Backend Development, ASP.NET Core & REST APIs
-- 🌐 Full-Stack Development with React, Next.js & Node.js
-- 📱 Cross-Platform Mobile Development
-- 📊 Data Engineering, ETL Pipelines & Predictive Analytics
-- ☁️ Cloud Applications, DevOps & CI/CD
-- 🎯 Focused on code quality, reliability, security and performance
+- 🤖 AI agents, LLM integrations, and intelligent automation
+- ⚙️ Backend engineering, ASP.NET Core, .NET, Python, and FastAPI
+- 🌐 Full-stack web development using React, Next.js, Angular, and Node.js
+- 📱 Cross-platform mobile application development
+- 📊 Data pipelines, ETL/ELT, analytics, and machine learning
+- ☁️ Cloud deployment, DevOps, CI/CD, and system integration
+- 🎯 Focus on performance, maintainability, reliability, and clean architecture
 
 ---
 
@@ -51,15 +54,15 @@ I enjoy transforming complex technical requirements into reliable, maintainable 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,scala,ruby&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,scala,ruby&theme=dark" alt="Programming languages"/>
 </p>
 
-**SQL:** SQL Server, T-SQL and database querying.
+`Python` · `C#` · `JavaScript` · `TypeScript` · `Java` · `Scala` · `Ruby` · `SQL` · `T-SQL`
 
 ### ⚙️ Backend Development & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,django,flask&theme=dark" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,django,flask&theme=dark" alt="Backend technologies"/>
 </p>
 
 `ASP.NET Core` · `.NET` · `Entity Framework Core` · `FastAPI` · `Flask` · `Django REST Framework` · `Node.js` · `NestJS` · `Express` · `Ruby on Rails` · `REST APIs` · `GraphQL`
@@ -67,40 +70,41 @@ I enjoy transforming complex technical requirements into reliable, maintainable 
 ### 🌐 Frontend & Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,html,css,flutter,dart,firebase&theme=dark" alt="Frontend and Mobile Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,html,css,flutter,dart,firebase&theme=dark" alt="Frontend and mobile technologies"/>
 </p>
 
-`React.js` · `Next.js` · `Angular` · `JavaScript` · `TypeScript` · `MERN Stack` · `MEAN Stack` · `React Native` · `Expo` · `Flutter` · `Dart` · `Redux Toolkit` · `Tailwind CSS` · `Bootstrap` · `Responsive UI/UX` · `Firebase` · `Android & iOS Development`
+`React` · `Next.js` · `Angular` · `MERN Stack` · `MEAN Stack` · `TypeScript` · `Redux` · `Tailwind CSS` · `Bootstrap` · `React Native` · `Expo` · `Flutter` · `Dart` · `Firebase` · `Responsive UI/UX`
 
-### 🤖 AI / ML / Generative AI
+### 🤖 AI, Machine Learning & Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=for-the-badge"/>
 </p>
 
-- OpenAI API and Prompt Engineering
+- OpenAI API and LLM integration
+- Prompt engineering and evaluation
 - Retrieval-Augmented Generation (RAG)
-- Embeddings and Vector Search
-- LangChain, LangGraph and LlamaIndex
-- MCP and Tool Calling
+- Embeddings and vector search
+- LangChain, LangGraph, and LlamaIndex
+- MCP and tool calling
+- PyTorch, TensorFlow, and scikit-learn
 - Hugging Face Transformers
-- PyTorch, TensorFlow and scikit-learn
-- Model Evaluation and AI Workflow Automation
+- Model evaluation and AI workflow automation
 
 ### 📊 Data Engineering & Analytics
 
-`ETL/ELT` · `Batch & Streaming Pipelines` · `Distributed Ingestion` · `Data Modeling` · `Data Validation` · `Data Quality` · `Apache Spark` · `Hadoop` · `pandas` · `NumPy` · `Kafka (familiar)` · `Power BI`
+`ETL/ELT` · `Data Pipelines` · `Batch Processing` · `Streaming Concepts` · `Data Modeling` · `Data Validation` · `Apache Spark` · `Hadoop` · `pandas` · `NumPy` · `Kafka (familiar)` · `Power BI`
 
 ### 🗄️ Databases & Storage
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database technologies"/>
 </p>
 
-`PostgreSQL` · `SQL Server` · `MySQL` · `MongoDB` · `DB2` · `Redis` · `Firebase` · `Supabase` · `Cosmos DB` · `Pinecone` · `Qdrant` · `Weaviate` · `Chroma` · `pgvector` · `Prisma ORM` · `Drizzle ORM` · `AWS S3` · `Azure Blob Storage`
+`PostgreSQL` · `SQL Server` · `MySQL` · `MongoDB` · `DB2` · `Redis` · `Cosmos DB` · `Supabase` · `Firebase` · `Azure Blob Storage` · `pgvector`
 
 ### ☁️ Cloud, DevOps & Tools
 
@@ -108,7 +112,7 @@ I enjoy transforming complex technical requirements into reliable, maintainable 
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,linux,git,github,githubactions&theme=dark" alt="Cloud and DevOps"/>
 </p>
 
-`Microsoft Azure` · `AWS` · `GCP` · `Azure Synapse` · `Azure AI Search` · `BigQuery` · `Dataflow` · `Docker` · `Kubernetes` · `AKS` · `Helm` · `Linux` · `Azure DevOps` · `GitHub Actions` · `CircleCI` · `CI/CD` · `Unit Testing` · `API Testing` · `Monitoring` · `Logging & Tracing`
+`Microsoft Azure` · `AWS` · `GCP` · `Docker` · `Kubernetes` · `Azure DevOps` · `GitHub Actions` · `CI/CD` · `Linux` · `Git` · `API Testing` · `Logging` · `Monitoring`
 
 ---
 
@@ -121,20 +125,19 @@ I enjoy transforming complex technical requirements into reliable, maintainable 
 
 <td width="25%" valign="top">
 
-<h3>🚀 Senior Software Engineer & Team Lead</h3>
+<h3>🚀 Senior Software Engineer</h3>
 
-<strong>AS-P · Remote</strong>
+<strong>AS-P</strong>
 
-<sub>Jun 2025 – Present</sub>
+<sub>June 2025 – Present</sub>
 
 <hr/>
 
-- Backend services & REST APIs
-- AI-powered APIs and LLMs
+- Scalable backend services
+- AI-powered APIs and LLM integration
 - RAG evaluation workflows
-- Data pipelines
-- System integration
-- CI/CD and cloud deployment
+- Data pipelines and system integration
+- Reliability, monitoring, and CI/CD
 
 </td>
 
@@ -142,56 +145,53 @@ I enjoy transforming complex technical requirements into reliable, maintainable 
 
 <h3>🌐 Senior Software Engineer</h3>
 
-<strong>TheAMLab · Remote</strong>
+<strong>TheAMLab</strong>
 
-<sub>Jun 2022 – May 2025</sub>
+<sub>June 2022 – May 2025</sub>
 
 <hr/>
 
-- React and Next.js
-- MERN stack applications
+- React and Next.js applications
+- MERN stack development
 - React Native and Expo
-- Backend API integration
-- Database solutions
-- Testing and optimization
+- API and database integration
+- Performance optimization
 
 </td>
 
 <td width="25%" valign="top">
 
-<h3>🤖 Senior Generative AI Engineer</h3>
+<h3>🤖 Generative AI Engineer</h3>
 
-<strong>Orthogonal · Remote</strong>
+<strong>Orthogonal</strong>
 
-<sub>Feb 2019 – May 2022</sub>
+<sub>February 2019 – May 2022</sub>
 
 <hr/>
 
 - Python and FastAPI
-- LLM integration
-- RAG and embeddings
-- Vector search
-- Model evaluation
+- LLM and RAG workflows
+- Embeddings and vector search
+- Prompt and model evaluation
 - Docker and CI/CD
 
 </td>
 
 <td width="25%" valign="top">
 
-<h3>📊 Software Engineer, Machine Learning</h3>
+<h3>📊 Software Engineer, ML</h3>
 
-<strong>Walmart · Remote</strong>
+<strong>Walmart</strong>
 
-<sub>May 2017 – Jan 2019</sub>
+<sub>May 2017 – January 2019</sub>
 
 <hr/>
 
-- Predictive ML models
-- Python and Scala
-- DB2 and Hadoop
+- Predictive failure-detection models
+- Python, Scala, DB2, and Hadoop
 - C#/.NET services
-- SQL Server procedures
-- Power BI dashboards
+- SQL Server stored procedures
+- Power BI reporting
 
 </td>
 
@@ -202,58 +202,134 @@ I enjoy transforming complex technical requirements into reliable, maintainable 
 
 ---
 
-## 🚀 Areas of Expertise
+## 🚀 My Services
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### 🤖 AI Agents & Automation
 
-LLM Applications
+Build intelligent AI solutions that streamline business processes and reduce repetitive manual work.
 
-AI Agents
-
-RAG Systems
-
-Vector Search
-
-Workflow Automation
+- AI agents and tool calling
+- LLM application integration
+- Business workflow automation
+- RAG and knowledge assistants
+- AI-powered API integration
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+### 🧠 Generative AI & RAG
 
-Backend APIs
+Develop AI applications that retrieve information from relevant data and support practical business use cases.
 
-Full-Stack Applications
-
-System Integration
-
-Cloud Applications
-
-Mobile Development
+- Retrieval-Augmented Generation
+- Embeddings and vector search
+- Document processing workflows
+- Prompt design and evaluation
+- AI application development
 
 </td>
 
-<td width="33%" align="center" valign="top">
+</tr>
 
-### 📊 Data Engineering
+<tr>
 
-ETL/ELT Pipelines
+<td width="50%" valign="top">
 
-Data Processing
+### 🌐 Custom Software & Web Development
 
-Predictive Analytics
+Create maintainable web applications and custom software tailored to business requirements.
 
-Data Quality
+- Full-stack web applications
+- React and Next.js development
+- Node.js and ASP.NET Core
+- SaaS product development
+- Existing application improvements
 
-Database Optimization
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend & API Development
+
+Build reliable backend services and integrations for web, mobile, and enterprise applications.
+
+- REST API development
+- .NET and Python backends
+- Third-party API integration
+- Database design and optimization
+- Authentication and validation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 Mobile App Development
+
+Develop cross-platform mobile experiences with connected APIs and backend services.
+
+- React Native applications
+- Expo-based development
+- Flutter applications
+- Mobile API integration
+- Performance improvements
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Engineering & Machine Learning
+
+Build data workflows and analytical solutions that help businesses process information and identify useful patterns.
+
+- ETL/ELT pipeline development
+- Data transformation and validation
+- Predictive machine learning
+- Data quality and reconciliation
+- Reporting and analytics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+Improve software delivery and deployment reliability with modern development workflows.
+
+- Docker containerization
+- CI/CD pipeline setup
+- Cloud application deployment
+- Logging and monitoring
+- Deployment troubleshooting
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 System & Platform Integration
+
+Connect applications, services, and databases to create dependable end-to-end workflows.
+
+- Third-party integrations
+- Payment and messaging APIs
+- Legacy system integration
+- Data synchronization
+- Workflow and process integration
 
 </td>
 
@@ -266,31 +342,60 @@ Database Optimization
 
 ## 📌 Featured Projects
 
-### 🤖 AI Agents & Workflow Automation
+<div align="center">
 
-Building intelligent workflows, integrating LLMs, and automating repetitive business processes.
+<table>
+<tr>
 
-**Technologies:** Python, FastAPI, LLMs, APIs and RAG.
+<td width="50%" valign="top">
 
-### 🧠 Retrieval-Augmented Generation
+### 🤖 AI Automation Platform
 
-Developing knowledge retrieval workflows using embeddings, vector databases, and semantic search.
+Intelligent workflows combining LLMs, API integrations, and automation to reduce manual work.
 
-**Technologies:** Python, LangChain, Vector Search and RAG.
+**Core areas:** Python, FastAPI, LLMs, APIs
 
-### 🌐 Full-Stack Applications
+</td>
 
-Developing responsive web applications with modern frontend frameworks, scalable APIs, and database integrations.
+<td width="50%" valign="top">
 
-**Technologies:** React, Next.js, Node.js, TypeScript and MongoDB.
+### 🧠 RAG Knowledge Assistant
 
-### 📊 Data Engineering & Predictive Analytics
+Knowledge retrieval workflows using document processing, embeddings, and semantic search.
 
-Creating data processing workflows, predictive models, and analytics solutions.
+**Core areas:** RAG, Vector Search, Python
 
-**Technologies:** Python, SQL, Hadoop, Scala and Power BI.
+</td>
 
-> Add links to your actual public GitHub repositories here as you publish your projects.
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack SaaS Application
+
+Modern web applications with responsive interfaces, backend services, and database integrations.
+
+**Core areas:** React, Next.js, Node.js, TypeScript
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Processing & ML
+
+Data processing workflows and predictive analytics solutions for business insights.
+
+**Core areas:** Python, SQL, Scala, Machine Learning
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+> Replace these project descriptions with links to your actual public repositories when they are available.
 
 ---
 
@@ -298,21 +403,11 @@ Creating data processing workflows, predictive models, and analytics solutions.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-### 🎓 Bachelor of Science in Computer Science
+### 🎓 Bachelor of Science in Computer Science (BSCS)
 
 **University of the Punjab**
 
-Lahore, Pakistan
-
-**2018**
-
-</td>
-</tr>
-</table>
+Lahore, Pakistan · 2018
 
 </div>
 
@@ -334,16 +429,18 @@ Lahore, Pakistan
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Work Together
+
+I'm open to freelance projects, remote opportunities, and collaborations involving software engineering, AI automation, full-stack development, API integration, and data engineering.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/danielbrookswork/">
-<img src="https://img.shields.io/badge/LinkedIn-Daniel%20Brooks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:daniel.brooks.ashburn@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="tel:+12282278781">
@@ -352,8 +449,9 @@ Lahore, Pakistan
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 ### Building Reliable Software. Creating Intelligent Solutions. Delivering Real Impact.
 
 </div>
+```
