@@ -1,15 +1,15 @@
 ```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Automation%20%7C%20Cloud&descSize=17&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Daniel Brooks"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Automation%20%7C%20Cloud&descSize=17&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Daniel Brooks Profile Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineering;AI+Agents+%26+Workflow+Automation;Generative+AI+%26+RAG+Solutions;Backend+APIs+%26+System+Integration;Data+Engineering+%26+Cloud+Solutions" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;AI+Agents+%26+Workflow+Automation;Generative+AI+%26+RAG+Solutions;Full-Stack+%26+Cloud+Engineering;Data+Pipelines+%26+Analytics" alt="Animated introduction"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialty-AI%20%26%20Automation-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Availability-Freelance%20%26%20Remote-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Availability-Freelance-0F766E?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -33,19 +33,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a freelance software engineer with 8+ years of experience building software applications, AI-powered solutions, backend systems, and data-driven products.
+I'm a freelance software engineer with 8+ years of experience developing software applications, intelligent automation solutions, backend systems, and data-driven products.
 
-My work combines software engineering, full-stack development, Generative AI, machine learning, API integration, cloud applications, and data engineering.
+My work spans full-stack development, custom software engineering, Generative AI, machine learning, API integration, cloud applications, and data engineering. I focus on building reliable, scalable, maintainable solutions that address real business requirements.
 
-I help businesses transform ideas and complex requirements into practical, scalable, secure, and maintainable software solutions.
-
-- 🤖 AI agents, LLM integrations, and intelligent automation
-- ⚙️ Backend engineering, ASP.NET Core, .NET, Python, and FastAPI
-- 🌐 Full-stack web development using React, Next.js, Angular, and Node.js
-- 📱 Cross-platform mobile application development
-- 📊 Data pipelines, ETL/ELT, analytics, and machine learning
-- ☁️ Cloud deployment, DevOps, CI/CD, and system integration
-- 🎯 Focus on performance, maintainability, reliability, and clean architecture
+- 🤖 AI Agents, LLM Integration, RAG & Workflow Automation
+- ⚙️ Backend Development, ASP.NET Core, .NET & Python
+- 🌐 Full-Stack Development with React, Next.js & Node.js
+- 📱 Cross-Platform Mobile Application Development
+- 📊 Data Engineering, ETL/ELT & Machine Learning
+- ☁️ Cloud Applications, DevOps & CI/CD
+- 🎯 Clean Code, Security, Reliability & Performance
 
 ---
 
@@ -54,7 +52,7 @@ I help businesses transform ideas and complex requirements into practical, scala
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,scala,ruby&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,scala,ruby&theme=dark" alt="Programming Languages"/>
 </p>
 
 `Python` · `C#` · `JavaScript` · `TypeScript` · `Java` · `Scala` · `Ruby` · `SQL` · `T-SQL`
@@ -62,7 +60,7 @@ I help businesses transform ideas and complex requirements into practical, scala
 ### ⚙️ Backend Development & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,django,flask&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,django,flask&theme=dark" alt="Backend Technologies"/>
 </p>
 
 `ASP.NET Core` · `.NET` · `Entity Framework Core` · `FastAPI` · `Flask` · `Django REST Framework` · `Node.js` · `NestJS` · `Express` · `Ruby on Rails` · `REST APIs` · `GraphQL`
@@ -70,7 +68,7 @@ I help businesses transform ideas and complex requirements into practical, scala
 ### 🌐 Frontend & Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,html,css,flutter,dart,firebase&theme=dark" alt="Frontend and mobile technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,html,css,flutter,dart,firebase&theme=dark" alt="Frontend and Mobile Technologies"/>
 </p>
 
 `React` · `Next.js` · `Angular` · `MERN Stack` · `MEAN Stack` · `TypeScript` · `Redux` · `Tailwind CSS` · `Bootstrap` · `React Native` · `Expo` · `Flutter` · `Dart` · `Firebase` · `Responsive UI/UX`
@@ -78,21 +76,21 @@ I help businesses transform ideas and complex requirements into practical, scala
 ### 🤖 AI, Machine Learning & Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=for-the-badge" alt="Vector Search"/>
 </p>
 
-- OpenAI API and LLM integration
-- Prompt engineering and evaluation
+- OpenAI API and LLM Integration
+- Prompt Engineering and Evaluation
 - Retrieval-Augmented Generation (RAG)
-- Embeddings and vector search
-- LangChain, LangGraph, and LlamaIndex
-- MCP and tool calling
-- PyTorch, TensorFlow, and scikit-learn
+- Embeddings and Vector Search
+- LangChain, LangGraph and LlamaIndex
+- MCP and Tool Calling
+- PyTorch, TensorFlow and scikit-learn
 - Hugging Face Transformers
-- Model evaluation and AI workflow automation
+- AI Workflow Automation
 
 ### 📊 Data Engineering & Analytics
 
@@ -101,7 +99,7 @@ I help businesses transform ideas and complex requirements into practical, scala
 ### 🗄️ Databases & Storage
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database Technologies"/>
 </p>
 
 `PostgreSQL` · `SQL Server` · `MySQL` · `MongoDB` · `DB2` · `Redis` · `Cosmos DB` · `Supabase` · `Firebase` · `Azure Blob Storage` · `pgvector`
@@ -119,10 +117,8 @@ I help businesses transform ideas and complex requirements into practical, scala
 ## 💼 Professional Experience
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="25%" valign="top">
 
 <h3>🚀 Senior Software Engineer</h3>
@@ -133,14 +129,13 @@ I help businesses transform ideas and complex requirements into practical, scala
 
 <hr/>
 
-- Scalable backend services
+- Backend services and REST APIs
 - AI-powered APIs and LLM integration
 - RAG evaluation workflows
-- Data pipelines and system integration
-- Reliability, monitoring, and CI/CD
+- Data pipelines and integrations
+- Reliability, monitoring and CI/CD
 
 </td>
-
 <td width="25%" valign="top">
 
 <h3>🌐 Senior Software Engineer</h3>
@@ -151,14 +146,13 @@ I help businesses transform ideas and complex requirements into practical, scala
 
 <hr/>
 
-- React and Next.js applications
-- MERN stack development
+- React and Next.js
+- MERN stack applications
 - React Native and Expo
 - API and database integration
-- Performance optimization
+- Testing and performance optimization
 
 </td>
-
 <td width="25%" valign="top">
 
 <h3>🤖 Generative AI Engineer</h3>
@@ -176,7 +170,6 @@ I help businesses transform ideas and complex requirements into practical, scala
 - Docker and CI/CD
 
 </td>
-
 <td width="25%" valign="top">
 
 <h3>📊 Software Engineer, ML</h3>
@@ -188,78 +181,69 @@ I help businesses transform ideas and complex requirements into practical, scala
 <hr/>
 
 - Predictive failure-detection models
-- Python, Scala, DB2, and Hadoop
+- Python, Scala, DB2 and Hadoop
 - C#/.NET services
-- SQL Server stored procedures
-- Power BI reporting
+- SQL Server procedures
+- Power BI dashboards
 
 </td>
-
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 🚀 My Services
+## 🚀 My Professional Services
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤖 AI Agents & Automation
+### 🤖 AI Agents & Business Automation
 
-Build intelligent AI solutions that streamline business processes and reduce repetitive manual work.
+Design intelligent workflows that reduce repetitive work and connect business systems.
 
 - AI agents and tool calling
-- LLM application integration
-- Business workflow automation
-- RAG and knowledge assistants
-- AI-powered API integration
+- LLM integrations
+- Business process automation
+- AI assistants and knowledge bots
+- Workflow and API automation
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧠 Generative AI & RAG
+### 🧠 Generative AI & RAG Solutions
 
-Develop AI applications that retrieve information from relevant data and support practical business use cases.
+Build AI applications that use relevant documents and business data to provide useful responses.
 
 - Retrieval-Augmented Generation
 - Embeddings and vector search
-- Document processing workflows
+- Document processing
 - Prompt design and evaluation
-- AI application development
+- AI application integration
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🌐 Custom Software & Web Development
 
-Create maintainable web applications and custom software tailored to business requirements.
+Develop modern web applications and custom software tailored to business needs.
 
-- Full-stack web applications
-- React and Next.js development
+- Full-stack development
+- React and Next.js applications
 - Node.js and ASP.NET Core
 - SaaS product development
 - Existing application improvements
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & API Development
 
-Build reliable backend services and integrations for web, mobile, and enterprise applications.
+Create reliable backend systems and integrations for web and mobile applications.
 
 - REST API development
 - .NET and Python backends
@@ -268,74 +252,64 @@ Build reliable backend services and integrations for web, mobile, and enterprise
 - Authentication and validation
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📱 Mobile App Development
 
-Develop cross-platform mobile experiences with connected APIs and backend services.
+Build cross-platform mobile applications connected to modern backend services.
 
-- React Native applications
-- Expo-based development
+- React Native and Expo
 - Flutter applications
 - Mobile API integration
+- Responsive app experiences
 - Performance improvements
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📊 Data Engineering & Machine Learning
 
-Build data workflows and analytical solutions that help businesses process information and identify useful patterns.
+Develop data workflows and analytical solutions that turn raw information into useful insights.
 
-- ETL/ELT pipeline development
+- ETL/ELT pipelines
 - Data transformation and validation
 - Predictive machine learning
 - Data quality and reconciliation
-- Reporting and analytics
+- Analytics and reporting
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
-Improve software delivery and deployment reliability with modern development workflows.
+Improve deployment reliability and streamline software delivery.
 
 - Docker containerization
-- CI/CD pipeline setup
+- CI/CD pipelines
 - Cloud application deployment
 - Logging and monitoring
 - Deployment troubleshooting
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔗 System & Platform Integration
 
-Connect applications, services, and databases to create dependable end-to-end workflows.
+Connect applications, databases and services to create reliable end-to-end workflows.
 
 - Third-party integrations
 - Payment and messaging APIs
 - Legacy system integration
 - Data synchronization
-- Workflow and process integration
+- Cross-platform workflows
 
 </td>
-
 </tr>
 </table>
-
 </div>
 
 ---
@@ -343,59 +317,51 @@ Connect applications, services, and databases to create dependable end-to-end wo
 ## 📌 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤖 AI Automation Platform
+### 🤖 AI Automation
 
-Intelligent workflows combining LLMs, API integrations, and automation to reduce manual work.
+Intelligent workflows that combine LLMs, APIs and business process automation.
 
-**Core areas:** Python, FastAPI, LLMs, APIs
+**Technologies:** Python, FastAPI, LLMs, REST APIs
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧠 RAG Knowledge Assistant
 
-Knowledge retrieval workflows using document processing, embeddings, and semantic search.
+Knowledge retrieval using document processing, embeddings and semantic search.
 
-**Core areas:** RAG, Vector Search, Python
+**Technologies:** Python, RAG, Vector Search
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack SaaS Application
+### 🌐 Full-Stack SaaS
 
-Modern web applications with responsive interfaces, backend services, and database integrations.
+Responsive web applications with scalable APIs and database integration.
 
-**Core areas:** React, Next.js, Node.js, TypeScript
+**Technologies:** React, Next.js, Node.js, TypeScript
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📊 Data Processing & ML
+### 📊 Data & Machine Learning
 
-Data processing workflows and predictive analytics solutions for business insights.
+Data processing and predictive analytics workflows for business insights.
 
-**Core areas:** Python, SQL, Scala, Machine Learning
+**Technologies:** Python, SQL, Scala, Machine Learning
 
 </td>
-
 </tr>
 </table>
-
 </div>
 
-> Replace these project descriptions with links to your actual public repositories when they are available.
+> Add links to your own public repositories here when your projects are ready to share.
 
 ---
 
@@ -431,7 +397,7 @@ Lahore, Pakistan · 2018
 
 ## 🤝 Let's Work Together
 
-I'm open to freelance projects, remote opportunities, and collaborations involving software engineering, AI automation, full-stack development, API integration, and data engineering.
+I'm open to freelance projects, remote opportunities and collaborations involving software engineering, AI automation, full-stack development, API integration and data engineering.
 
 <div align="center">
 
@@ -449,7 +415,7 @@ I'm open to freelance projects, remote opportunities, and collaborations involvi
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 ### Building Reliable Software. Creating Intelligent Solutions. Delivering Real Impact.
 
