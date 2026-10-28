@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Automation%20%7C%20Data%20Engineering&descSize=17&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Daniel Brooks Profile Banner"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&section=header" width="100%" alt="Daniel Brooks Banner"/>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;AI+Agents+%26+Workflow+Automation;Generative+AI+%26+RAG+Solutions;Full-Stack+%26+Cloud+Engineering;Data+Pipelines+%26+Analytics" alt="Animated introduction"/>
 
