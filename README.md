@@ -27,11 +27,6 @@
 <a href="tel:+12282278781">
 <img src="https://img.shields.io/badge/Phone-%2B1%20228--227--8781-16A34A?style=for-the-badge" alt="Phone"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=daniebrooks&style=for-the-badge&color=2563EB" alt="Profile views"/>
-
 </div>
 
 ---
