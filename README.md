@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Daniel%20Brooks&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Automation%20%7C%20Data%20Engineering&descSize=17&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Daniel Brooks Profile Banner"/>
@@ -558,4 +557,4 @@ I'm open to freelance projects, remote opportunities, and collaborations involvi
 ### Building Reliable Software. Creating Intelligent Solutions. Delivering Real Impact.
 
 </div>
-```
+
