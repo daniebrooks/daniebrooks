@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199" height="44" viewBox="0 0 199 44" role="img" aria-label="Phone: +1 228 227 8781">
+<title>Phone: +1 228 227 8781</title>
+<rect x="2.5" y="4.5" width="194" height="35" rx="8" fill="#0f172a" stroke="#26417a"/>
+<circle cx="15" cy="22" r="3" fill="#22d3ee"/>
+<text x="24" y="26" fill="#94a3b8" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="10" font-weight="600" textLength="34" lengthAdjust="spacing">PHONE</text>
+<path d="M67.5 13V31" stroke="#26417a"/>
+<text x="77" y="27" fill="#f8fafc" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="600" textLength="108" lengthAdjust="spacing">+1 228 227 8781</text>
+</svg>

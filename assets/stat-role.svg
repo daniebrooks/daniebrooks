@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="44" viewBox="0 0 214 44" role="img" aria-label="Role: Freelance engineer">
+<title>Role: Freelance engineer</title>
+<rect x="2.5" y="4.5" width="209" height="35" rx="8" fill="#0f172a" stroke="#26417a"/>
+<circle cx="15" cy="22" r="3" fill="#22d3ee"/>
+<text x="24" y="26" fill="#94a3b8" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="10" font-weight="600" textLength="27" lengthAdjust="spacing">ROLE</text>
+<path d="M60.5 13V31" stroke="#26417a"/>
+<text x="70" y="27" fill="#f8fafc" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="600" textLength="130" lengthAdjust="spacing">Freelance engineer</text>
+</svg>
