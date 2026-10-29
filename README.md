@@ -48,55 +48,11 @@ I focus on turning complex technical requirements into reliable, maintainable, a
 
 ## Engineering focus
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
+**AI engineering.** LLM applications, AI agents, RAG systems, vector search, and workflow automation.
 
-### AI Engineering
+**Software engineering.** Backend APIs, full-stack applications, SaaS development, system integration, and mobile development.
 
-LLM Applications
-
-AI Agents
-
-RAG Systems
-
-Vector Search
-
-Workflow Automation
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Software Engineering
-
-Backend APIs
-
-Full-Stack Applications
-
-SaaS Development
-
-System Integration
-
-Mobile Development
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Data Engineering
-
-ETL/ELT Pipelines
-
-Data Processing
-
-Predictive Analytics
-
-Data Quality
-
-Database Optimization
-
-</td>
-</tr>
-</table>
+**Data engineering.** ETL/ELT pipelines, data processing, predictive analytics, data quality, and database optimization.
 
 ## Technologies
 
@@ -112,18 +68,9 @@ Database Optimization
 
 ## Experience
 
-<table>
-<tr>
+### Senior Software Engineer
 
-<td width="25%" valign="top">
-
-<h3>Senior Software Engineer</h3>
-
-<strong>AS-P · Remote</strong>
-
-<sub>June 2025 – Present</sub>
-
-<hr/>
+**AS-P · Remote** · June 2025 – Present
 
 - Backend services and API development
 - AI-powered API integration
@@ -132,17 +79,9 @@ Database Optimization
 - Reliability and error-handling improvements
 - CI/CD and deployment workflows
 
-</td>
+### Senior Software Engineer
 
-<td width="25%" valign="top">
-
-<h3>Senior Software Engineer</h3>
-
-<strong>TheAMLab · Remote</strong>
-
-<sub>June 2022 – May 2025</sub>
-
-<hr/>
+**TheAMLab · Remote** · June 2022 – May 2025
 
 - React and Next.js applications
 - Full-stack and MERN development
@@ -151,17 +90,9 @@ Database Optimization
 - Database integration
 - Testing and performance improvements
 
-</td>
+### Generative AI Engineer
 
-<td width="25%" valign="top">
-
-<h3>Generative AI Engineer</h3>
-
-<strong>Orthogonal · Remote</strong>
-
-<sub>February 2019 – May 2022</sub>
-
-<hr/>
+**Orthogonal · Remote** · February 2019 – May 2022
 
 - Python and FastAPI
 - LLM integration
@@ -170,17 +101,9 @@ Database Optimization
 - Prompt and model evaluation
 - Docker and CI/CD
 
-</td>
+### Software Engineer, Machine Learning
 
-<td width="25%" valign="top">
-
-<h3>Software Engineer, Machine Learning</h3>
-
-<strong>Walmart · Remote</strong>
-
-<sub>May 2017 – January 2019</sub>
-
-<hr/>
+**Walmart · Remote** · May 2017 – January 2019
 
 - Predictive failure-detection models
 - Python and Scala data workflows
@@ -188,11 +111,6 @@ Database Optimization
 - C#/.NET services
 - SQL Server procedures
 - Power BI reporting
-
-</td>
-
-</tr>
-</table>
 
 ## Services
 
