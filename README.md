@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<img src="assets/stat-experience.svg" alt="Experience: 8+ years" height="44"> <img src="assets/stat-specialty.svg" alt="Specialty: AI &amp; automation" height="44"> <img src="assets/stat-role.svg" alt="Role: Freelance engineer" height="44">
+<img src="assets/stat-experience.svg" alt="Experience: 8+ years" height="48"> <img src="assets/stat-specialty.svg" alt="Specialty: AI &amp; automation" height="48"> <img src="assets/stat-role.svg" alt="Role: Freelance engineer" height="48">
 <br>
-<a href="https://www.linkedin.com/in/danielbrookswork/"><img src="assets/link-linkedin.svg" alt="Linkedin: danielbrookswork" height="44"></a> <a href="mailto:daniel.brooks.ashburn@gmail.com"><img src="assets/link-email.svg" alt="Email: daniel.brooks.ashburn@gmail.com" height="44"></a> <a href="tel:+12282278781"><img src="assets/link-phone.svg" alt="Phone: +1 228 227 8781" height="44"></a>
+<a href="https://www.linkedin.com/in/danielbrookswork/"><img src="assets/link-linkedin.svg" alt="Linkedin: danielbrookswork" height="48"></a> <a href="mailto:daniel.brooks.ashburn@gmail.com"><img src="assets/link-email.svg" alt="Email: daniel.brooks.ashburn@gmail.com" height="48"></a> <a href="tel:+12282278781"><img src="assets/link-phone.svg" alt="Phone: +1 228 227 8781" height="48"></a>
 </p>
 
 I'm a **freelance software engineer** with **8+ years of experience** building software applications, intelligent automation solutions, backend systems, and data-driven products.
@@ -85,7 +85,7 @@ I'm open to freelance projects, remote opportunities, and collaborations involvi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/danielbrookswork/"><img src="assets/link-linkedin.svg" alt="Linkedin: danielbrookswork" height="44"></a> <a href="mailto:daniel.brooks.ashburn@gmail.com"><img src="assets/link-email.svg" alt="Email: daniel.brooks.ashburn@gmail.com" height="44"></a> <a href="tel:+12282278781"><img src="assets/link-phone.svg" alt="Phone: +1 228 227 8781" height="44"></a>
+<a href="https://www.linkedin.com/in/danielbrookswork/"><img src="assets/link-linkedin.svg" alt="Linkedin: danielbrookswork" height="48"></a> <a href="mailto:daniel.brooks.ashburn@gmail.com"><img src="assets/link-email.svg" alt="Email: daniel.brooks.ashburn@gmail.com" height="48"></a> <a href="tel:+12282278781"><img src="assets/link-phone.svg" alt="Phone: +1 228 227 8781" height="48"></a>
 
 ### Building Reliable Software. Creating Intelligent Solutions. Delivering Real Impact.
 

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="226" height="44" viewBox="0 0 226 44" role="img" aria-label="Linkedin: danielbrookswork">
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48" role="img" aria-label="Linkedin: danielbrookswork">
 <title>Linkedin: danielbrookswork</title>
-<rect x="2.5" y="4.5" width="221" height="35" rx="8" fill="#0f172a" stroke="#26417a"/>
-<circle cx="15" cy="22" r="3" fill="#22d3ee"/>
-<text x="24" y="26" fill="#94a3b8" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="10" font-weight="600" textLength="54" lengthAdjust="spacing">LINKEDIN</text>
-<path d="M87.5 13V31" stroke="#26417a"/>
-<text x="97" y="27" fill="#f8fafc" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="600" textLength="115" lengthAdjust="spacing">danielbrookswork</text>
+<defs><clipPath id="c"><rect x="2" y="4" width="236" height="40" rx="9"/></clipPath></defs>
+<g clip-path="url(#c)"><rect x="2" y="4" width="236" height="40" fill="#0f1c36"/><rect x="2" y="4" width="83" height="40" fill="#22d3ee"/></g>
+<rect x="2.75" y="4.75" width="234.5" height="38.5" rx="8.5" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+<text x="14" y="28" fill="#06222b" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="11" font-weight="700" textLength="59" lengthAdjust="spacing">LINKEDIN</text>
+<text x="99" y="29" fill="#ffffff" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="13" font-weight="700" textLength="125" lengthAdjust="spacing">danielbrookswork</text>
 </svg>
