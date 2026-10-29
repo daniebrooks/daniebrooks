@@ -48,7 +48,7 @@ I focus on turning complex technical requirements into reliable, maintainable, a
 
 ## Engineering focus
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
