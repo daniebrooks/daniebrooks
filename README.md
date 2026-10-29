@@ -114,173 +114,65 @@ I focus on turning complex technical requirements into reliable, maintainable, a
 
 ## Services
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### AI Agents & Business Automation
 
 Build intelligent workflows that reduce repetitive tasks and connect business systems.
 
-- AI agents and tool calling
-- LLM integrations
-- Business process automation
-- AI assistants and knowledge bots
-- Workflow automation
-- API-based automation
-
-</td>
-
-<td width="50%" valign="top">
+AI agents and tool calling · LLM integrations · Business process automation · AI assistants and knowledge bots · Workflow automation · API-based automation
 
 ### Generative AI & RAG Solutions
 
 Develop AI applications that retrieve relevant information from documents and business data.
 
-- Retrieval-Augmented Generation
-- Embeddings and vector search
-- Document processing
-- Prompt engineering and evaluation
-- AI-powered applications
-- Knowledge retrieval systems
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
+Retrieval-Augmented Generation · Embeddings and vector search · Document processing · Prompt engineering and evaluation · AI-powered applications · Knowledge retrieval systems
 
 ### Custom Software & Web Development
 
 Create modern applications tailored to business requirements.
 
-- Full-stack web applications
-- React and Next.js development
-- Node.js and ASP.NET Core
-- SaaS product development
-- Custom business software
-- Application improvements
-
-</td>
-
-<td width="50%" valign="top">
+Full-stack web applications · React and Next.js development · Node.js and ASP.NET Core · SaaS product development · Custom business software · Application improvements
 
 ### Backend & API Development
 
 Build reliable backend systems and integrations for web, mobile, and enterprise applications.
 
-- REST API development
-- .NET and Python backends
-- Third-party API integration
-- Authentication and validation
-- Database design
-- Backend performance optimization
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
+REST API development · .NET and Python backends · Third-party API integration · Authentication and validation · Database design · Backend performance optimization
 
 ### Mobile App Development
 
 Develop cross-platform mobile applications connected to modern backend services.
 
-- React Native applications
-- Expo-based development
-- Flutter applications
-- Mobile API integration
-- Android and iOS solutions
-- Mobile performance improvements
-
-</td>
-
-<td width="50%" valign="top">
+React Native applications · Expo-based development · Flutter applications · Mobile API integration · Android and iOS solutions · Mobile performance improvements
 
 ### Data Engineering & Machine Learning
 
 Build data pipelines and analytical solutions that turn raw information into useful insights.
 
-- ETL/ELT pipeline development
-- Data transformation and validation
-- Predictive machine learning
-- Data quality and reconciliation
-- Data processing workflows
-- Analytics and reporting
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
+ETL/ELT pipeline development · Data transformation and validation · Predictive machine learning · Data quality and reconciliation · Data processing workflows · Analytics and reporting
 
 ### Cloud & DevOps
 
 Improve deployment reliability and streamline software delivery.
 
-- Docker containerization
-- CI/CD pipeline setup
-- Cloud application deployment
-- Logging and monitoring
-- Deployment troubleshooting
-- Development workflow improvements
-
-</td>
-
-<td width="50%" valign="top">
+Docker containerization · CI/CD pipeline setup · Cloud application deployment · Logging and monitoring · Deployment troubleshooting · Development workflow improvements
 
 ### System & Platform Integration
 
 Connect applications, services, and databases to create dependable workflows.
 
-- Third-party integrations
-- REST API connectivity
-- Data synchronization
-- Legacy system integration
-- Cross-platform workflows
-- Application interoperability
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
+Third-party integrations · REST API connectivity · Data synchronization · Legacy system integration · Cross-platform workflows · Application interoperability
 
 ### Database Development & Optimization
 
 Design and improve database solutions for application performance and reliability.
 
-- SQL database development
-- Relational database design
-- Query optimization
-- Data modeling
-- Database integration
-- Data validation
-
-</td>
-
-<td width="50%" valign="top">
+SQL database development · Relational database design · Query optimization · Data modeling · Database integration · Data validation
 
 ### Software Testing & Maintenance
 
 Improve application quality, stability, and long-term maintainability.
 
-- API testing
-- Unit testing
-- Bug fixing and troubleshooting
-- Performance improvements
-- Error handling and logging
-- Code quality improvements
-
-</td>
-
-</tr>
-</table>
+API testing · Unit testing · Bug fixing and troubleshooting · Performance improvements · Error handling and logging · Code quality improvements
 
 ## Education
 
